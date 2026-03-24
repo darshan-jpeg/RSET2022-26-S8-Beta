@@ -162,9 +162,4 @@ The system includes a **web-based monitoring dashboard** built using HTML, Boots
 
 ---
 
-### 🔧 Steps
 
-#### 1. Clone Repository
-```bash
-git clone https://github.com/gjh70/RSET2022-26-S8-Beta.git
-cd "Group 8 Ransomware Detection System"
